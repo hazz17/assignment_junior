@@ -32,9 +32,9 @@ Electricity Consumption Calculator
 
 📂 Project Structure
 assignment_junior/
-│── index.php 
-│── functions.php 
-│── README.md 
+- index.php
+- functions.php
+- README.md 
 
 👨‍💻 Author
 
